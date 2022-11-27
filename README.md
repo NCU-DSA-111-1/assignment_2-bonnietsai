@@ -37,5 +37,5 @@ gcc -o main main.c -lev
 1)開新局
 ./main -n -s new_game_file_name
 2)載入棋譜
-./main –l old_game_file_name
+./main -l old_game_file_name
 ```
